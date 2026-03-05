@@ -21,7 +21,6 @@ header.container{
     justify-content: space-between;
 }
 
-
 nav > ul{
     width: 100vw;
 }
@@ -33,7 +32,6 @@ nav > ul > li{
     transition: 0.5s;
     list-style: none;
     cursor: pointer;
-
 }
 
 nav > ul > li:hover{
@@ -49,7 +47,7 @@ main{
     margin: 10px  auto ;
     padding: 10px;
     width: 90vw;
-   border-radius: 10px;
+    border-radius: 10px;
     background-color: rgb(255, 251, 251);
 }
 main > article> p{
