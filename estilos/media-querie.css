@@ -3,6 +3,9 @@
 /*Telas de tablets em diante
 */
 @media screen and (min-width:768px){
+  body,html{
+    height: 100vh;
+  }
   nav.navegacao{
     display: block;
 
